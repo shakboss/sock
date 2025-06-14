@@ -2,7 +2,7 @@
 	"log/slog"
 	"net"
 
-	"e:/socksip-server/internal/config"
+	"github.com/shakboss/sock/tree/main/internal/config"
 )
 
 const (
