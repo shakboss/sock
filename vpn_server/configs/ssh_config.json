@@ -1,0 +1,14 @@
+{
+  "tunnel_type": 4,
+  "TypeSSHTransport": 0,
+  "SSHPayload": "",
+  "SSHUsername": "one",
+  "SSHPassword": "one",
+  "SSHServer": "ssh.example.com:22",
+  "enableHTTPWS": false,
+  "DNSudp": "",
+  "DNSdot": "",
+  "DNSdoh": "",
+  "CDNHost": "",
+  "pubKey": ""
+}

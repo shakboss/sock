@@ -1,0 +1,22 @@
+{
+  "tunnel_type": 1,
+  "proxy_host_port": "proxy.example.com:8080",
+  "payload": {
+    "version": 1,
+    "client_id": "one",
+    "auth_token": "one",
+    "request_type": "udp",
+    "port_range": {
+      "start": 10000,
+      "end": 10010
+    }
+  },
+  "start_port": 10000,
+  "end_port": 10010,
+  "sender_count": 10,
+  "receiver_count": 5,
+  "DNSudp": "",
+  "DNSdot": "",
+  "DNSdoh": "",
+  "CDNHost": ""
+}

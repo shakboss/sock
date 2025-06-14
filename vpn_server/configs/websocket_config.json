@@ -1,0 +1,12 @@
+{
+  "tunnel_type": 3,
+  "websocket_url": "wss://example.com/ws",
+  "enableHTTPWS": false,
+  "DNSudp": "",
+  "DNSdot": "",
+  "DNSdoh": "",
+  "CDNHost": "",
+  "server": "ws.example.com",
+  "listen_port": "8001",
+  "password": "one"
+}

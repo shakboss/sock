@@ -1,0 +1,11 @@
+{
+  "tunnel_type": 5,
+  "server": "sr.example.com",
+  "remote_udp_port": 7300,
+  "udp_request_type": 1,
+  "password": "one",
+  "DNSudp": "",
+  "DNSdot": "",
+  "DNSdoh": "",
+  "CDNHost": ""
+}

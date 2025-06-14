@@ -1,0 +1,14 @@
+{
+  "tunnel_type": 2,
+  "DNSTType": 0,
+  "DNSResolver": 0,
+  "DNSudp": "1.1.1.1",
+  "DNSdot": "1.1.1.1",
+  "DNSdotR": "",
+  "DNSdoh": "https://cloudflare-dns.com/dns-query",
+  "DNSdohR": "",
+  "enableListenDNSTT": false,
+  "listenPort": "53",
+  "tunnel_domain": "t.example.com",
+  "password": "one"
+}

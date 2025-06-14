@@ -1,0 +1,11 @@
+{
+  "tunnel_type": 0,
+  "server": "udp.example.com",
+  "port": 53,
+  "DNSudp": "",
+  "DNSdot": "",
+  "DNSdoh": "",
+  "CDNHost": "",
+  "password": "one",
+  "enable_binding": true
+}
