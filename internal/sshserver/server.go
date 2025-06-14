@@ -15,7 +15,7 @@ import (
 	"strings"
 	"sync"
 
-	"e:/socksip-server/internal/config"
+	"github.com/shakboss/sock/tree/main/internal/config"
 
 	"golang.org/x/crypto/ssh"
 	"golang.org/x/net/proxy"
