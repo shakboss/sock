@@ -46,14 +46,14 @@ func DefaultConfig() *Config {
 		},
 		SSH: SSHConfig{
 			Enabled:      true,
-			ListenAddr:   ":2222",
+			ListenAddr:   ":2082",
 			HostKeyPath:  "ssh_host_key",
 			Banner:       "SSH-2.0-SocksIP_Server",
 			MaxAuthTries: 3,
 		},
 		SOCKS5: SOCKS5Config{
 			Enabled:    true,
-			ListenAddr: ":1080",
+			ListenAddr: ":8989",
 			Auth: struct {
 				Enabled  bool   `yaml:"enabled"`
 				Username string `yaml:"username"`
