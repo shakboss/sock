@@ -22,7 +22,7 @@ import (
 
 	"log/slog"
 
-	"github.com/yourusername/socksip-server/internal/config"
+	"github.com/shakboss/sock/tree/main/internal/config"
 )
 
 var (
